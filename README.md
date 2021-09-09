@@ -1,4 +1,4 @@
-# WeatherBot
+# WeatherBot:
 Weather bot
 _____________________________________________
 Name speaks for itself:
@@ -16,7 +16,8 @@ _____________________________________________
 4. Pyowm package for python. Type: pip install pyowm
 5. Telebot package for python. Type: pip install telebot
 
-After that you can strat Weather bot. 
-# For launching type python bot.py.
+After that you can strat Weather bot.
+# Launching:
+For launching type python bot.py.
 *You need to be loacted in root folder with bot.py folder*
 
