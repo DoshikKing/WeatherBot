@@ -10,8 +10,8 @@ Works on Telegram API.
 Named WeatherBot in Telegram.
 _____________________________________________
 # Requirments for start up:
-1. Telegram bot API token. You can get it from @BotFather in Telegram
-2. Open weather map API token. You cam get it from this website -> https://home.openweathermap.org/api
+1. Telegram bot API token. You can get it from @BotFather in Telegram. Insert it instead of your_token in token variable.
+2. Open weather map API token. You cam get it from this website -> https://home.openweathermap.org/api. Insert it instead of your_token in owm variable.
 3. Python 3. You can download it from this website -> https://www.python.org/
 4. Pyowm package for python. Type: pip install pyowm
 5. Telebot package for python. Type: pip install telebot
