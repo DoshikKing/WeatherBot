@@ -11,7 +11,7 @@ import pyowm
 from pyowm.utils import config as cfg
 
 # токен API Tl
-token='1962415823:AAHe3tL06vDyVjVcAJwzMqUNWTdHBc8kYcw'
+token='your_token'
 
 language = 'ru'
 
