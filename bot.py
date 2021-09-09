@@ -63,7 +63,7 @@ def get_text_messages(message):
 		config['language'] = language
 
 		# токен с https://home.openweathermap.org/api_keys
-		owm = pyowm.OWM('c8012601c718ac68dd3c16355aa6005c', config)
+		owm = pyowm.OWM('your_token', config)
 
 		print(message.text)
 		print(language)
