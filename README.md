@@ -17,6 +17,6 @@ _____________________________________________
 5. Telebot package for python. Type: pip install telebot
 
 After that you can strat Weather bot. 
-For launching type python bot.py.
+# For launching type python bot.py.
 *You need to be loacted in root folder with bot.py folder*
 
