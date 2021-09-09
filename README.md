@@ -19,3 +19,5 @@ After that you can strat Weather bot.
 For launching type python bot.py.
 *You need to be loacted in root folder with bot.py folder*
 
+# Use case diagram:
+![alt text](https://github.com/DoshikKing/WeatherBot/blob/main/Bot%20Diagram.drawio.png)
